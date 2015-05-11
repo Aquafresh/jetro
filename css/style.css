@@ -1266,15 +1266,15 @@ input[type="submit"] {
 }
 
 .owl-prev {
-    right: 20px;
-    top: 170px;
-    transform: rotate(-45deg);
-}
-
-.owl-next {
     left: 20px;
     top: 170px;
     transform: rotate(135deg);
+}
+
+.owl-next {
+    right: 20px;
+    top: 170px;
+    transform: rotate(-45deg);
 }
 
 /*
