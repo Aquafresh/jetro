@@ -866,19 +866,25 @@ input[type="submit"] {
 	float: left;
 }
 
-.blog-img-video {
+.blog-scrin-video {
 	width: 670px;
 	height: 300px;
 	margin-bottom: 25px;
 	overflow: hidden;
 }
 
-.blog-img-video .slide {
+.video-scrin {
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+.blog-scrin-video .slide {
 	display: none;
 	height: 300px;
 }
 
-.blog-img-video .active {
+.blog-scrin-video .active {
 	display: block;
 }
 
